@@ -1,7 +1,7 @@
 wordpress:
-  wordpressPassword: foo
+  wordpressPassword: foo1
   mariadb:
     db:
-      password: bar
+      password: bar1
     rootUser:
-      password: baz
+      password: baz1
