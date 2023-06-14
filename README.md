@@ -1,0 +1,1 @@
+# myserver-kubernetes-configuration
