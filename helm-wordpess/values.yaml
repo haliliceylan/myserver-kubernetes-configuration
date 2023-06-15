@@ -5,4 +5,4 @@ wordpress:
       password: bar1
     rootUser:
       password: baz1
-  replicaCount: 1
+  replicaCount: 25
