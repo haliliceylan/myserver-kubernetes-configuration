@@ -7,3 +7,4 @@ wireguard:
         AllowedIPs: 10.34.0.3/32
   service:
     type: NodePort
+  disablePrivateKeyManagement: true
