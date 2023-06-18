@@ -7,3 +7,5 @@ wireguard:
         AllowedIPs: 0.0.0.0/0
   service:
     type: NodePort
+  securityContext:
+    privileged: true
