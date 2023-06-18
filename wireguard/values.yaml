@@ -2,6 +2,6 @@ wireguard:
   wireguard:
     clients:
       - PublicKey: vln51Hq6I8orezoNmNnc4GG1GVxYUTZFwHuTPBgd3Fg=
-        AllowedIPs: 10.34.0.2/32
+        AllowedIPs: 0.0.0.0/0
   service:
     type: NodePort
