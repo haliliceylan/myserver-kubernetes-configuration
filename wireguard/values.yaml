@@ -9,6 +9,8 @@ wireguard:
         AllowedIPs: 172.32.32.3/32
       - PublicKey: oiqPAqyd4sT8VaWT4XtVqc+WJif/mkVv5imW7kOOyVQ=
         AllowedIPs: 172.32.32.4/32
+      - PublicKey: qXzSHq3IDQegUzt7Qot5vVlJkN6uKRGCryl6FmGbwRs=
+        AllowedIPs: 172.32.32.5/32
   disruptionBudget:
     enabled: false
   autoscaling:
