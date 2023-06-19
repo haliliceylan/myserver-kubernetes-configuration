@@ -7,5 +7,7 @@ wireguard:
         AllowedIPs: 172.32.32.2/32
       - PublicKey: 1aK3qzo6IjnxnuZrV7mLd2MMm+Xw83UCvBbKNQIzETk=
         AllowedIPs: 172.32.32.3/32
+      - PublicKey: oiqPAqyd4sT8VaWT4XtVqc+WJif/mkVv5imW7kOOyVQ=
+        AllowedIPs: 172.32.32.4/32
   service:
     type: NodePort
