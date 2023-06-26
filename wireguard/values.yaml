@@ -15,4 +15,4 @@ wireguard:
     enabled: false
   autoscaling:
     enabled: false
-  replicaCount: 100
+  replicaCount: 3
