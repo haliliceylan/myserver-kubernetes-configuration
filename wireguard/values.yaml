@@ -15,6 +15,4 @@ wireguard:
     enabled: false
   autoscaling:
     enabled: false
-  service:
-    port: 30135
   replicaCount: 5
