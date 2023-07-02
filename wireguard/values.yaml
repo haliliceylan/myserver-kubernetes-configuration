@@ -18,3 +18,7 @@ wireguard:
   autoscaling:
     enabled: false
   replicaCount: 5
+  service:
+    enabled: true
+    type: LoadBalancer
+    port: 51280
